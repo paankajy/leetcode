@@ -1,4 +1,4 @@
-package arrays.medium;
+package arrays.easy;
 
 public class MaxProfit {
     public int method(int[] prices){

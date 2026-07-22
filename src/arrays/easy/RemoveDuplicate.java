@@ -1,7 +1,5 @@
-package arrays.medium;
+package arrays.easy;
 
-
-import java.util.*;
 
 public class RemoveDuplicate {
 
